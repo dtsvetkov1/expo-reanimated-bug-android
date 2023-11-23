@@ -1,6 +1,8 @@
 # About
 
-This project is a minimal reproducible example of a bug in the Expo SDK.
+This project is a minimal reproducible example of a bug in the Expo SDK
+
+[Link to the issue](https://github.com/expo/expo/issues/25566)
 
 # Steps to reproduce
 
@@ -58,3 +60,5 @@ DefaultNewArchitectureEntryPoint.getFabricEnabled());
 }
 
 ```
+
+Read more about the problem here: https://github.com/expo/expo/issues/25566
