@@ -12,10 +12,14 @@ run
 npm install
 ```
 
+```
+npx expo prebuild --platform android
+```
+
 then
 
 ```
-npm start
+npm run android
 ```
 
 The project will work correctly.
